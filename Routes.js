@@ -4,7 +4,7 @@ const objectId = require("mongodb").ObjectID
 const sha256 = require("sha256")
 var router = express.Router()
 
-const URI = "mongodb+srv://alan:alanray459@resturants.mesk5.mongodb.net/hotels?retryWrites=true&w=majority"
+const URI = ""
 
 
 // utility
