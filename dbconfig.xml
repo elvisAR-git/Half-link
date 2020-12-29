@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbconfig>
+  <uri>mongodb+srv://alan:alanray459@resturants.mesk5.mongodb.net/hotels?retryWrites=true&amp;w=majority</uri>
+</dbconfig>
