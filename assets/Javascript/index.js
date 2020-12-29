@@ -6,7 +6,7 @@ function submitURL(element) {
         console.log(url)
         let xhr = new XMLHttpRequest()
 
-        xhr.open("POST", "http://localhost:8080/shorten")
+        xhr.open("POST", "https://half-link.herokuapp.com/shorten")
         xhr.setRequestHeader("Content-Type", "application/json");
         xhr.onload = function () {
             if (this.status == 200) {
